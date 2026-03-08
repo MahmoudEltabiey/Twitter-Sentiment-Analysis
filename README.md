@@ -37,10 +37,7 @@ This model is commonly used in NLP classification tasks due to its efficiency an
 ## Results
 The models were evaluated using accuracy and classification metrics.
 
- Accuracy |
-|------|--------|
-
-0.94
+ Accuracy = 0.94
 
 ---
 
